@@ -7,3 +7,9 @@ Not all of the code used in these programs are originally written by me and I wi
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 This page will be updated closer to the end of my current capstone project
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Dependencies:
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Feel free to use and modify this code for educational purposes. I'm not responsible for the outcomes these programs may or may not have.
