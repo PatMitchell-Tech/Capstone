@@ -13,7 +13,7 @@ Radius.py dependencies: pynput module
                                                                                                                                                                      
 To perform this on windows type pip install pynput into cmd or powershell. If you are on linux type into your terminal: sudo apt install python3-pynput              
 
-sshbruter.py dependencies: You will need a .csv file 
+sshbruter.py dependencies: passwords.csv 
 
 You need to match the .csv file to the list file in the sshbruter.py program. You will also need to put a list of usernames in the first section and then passwords 
 in the second. Example:
