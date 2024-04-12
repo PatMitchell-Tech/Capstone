@@ -6,9 +6,9 @@
     School: Lake Superior College
 
     Purpose: For my capstone project I will be developing a winlocker variant named mitchware. This
-    winlocker virus will lock the user and then warn the user that the virus is executing. After
+    winlocker virus will lock the user and then warn the user that the program is executing. After
     the warning an image will appear showing an image telling you your screen is locked. Your mouse
-    and keyboard input will be disabled. This virus can be undone simply by restarting your computer
+    and keyboard input will be disabled. This program can be undone simply by restarting your computer
     or recovering from a snapshot."""
 
 
