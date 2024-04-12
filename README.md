@@ -15,5 +15,21 @@ To perform this on windows type pip install pynput into cmd or powershell. If yo
 
 sshbruter.py dependencies: You will need a .csv file 
 
+You need to match the .csv file to the list file in the sshbruter.py program. You will also need to put a list of usernames in the first section and then passwords 
+in the second. Example:
+root	admin
+root	12345
+root	password
+root	password1234
+root	toor
+root	root
+root	P@ss20rd!
+root	wordpass21
+root	password90
+root	12345678
+![image](https://github.com/PatMitchell-Tech/Capstone/assets/120431122/bc63f4fc-4966-4b02-9cf9-040e242b4422)
+
+
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Feel free to use and modify this code for educational purposes. I'm not responsible for the outcomes these programs may or may not have.
