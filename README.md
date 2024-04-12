@@ -9,9 +9,11 @@ Not all of the code used in these programs are originally written by me and I wi
 This page will be updated closer to the end of my current capstone project
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Dependencies: For Radius.py(Keylogger program) you need the pynput module installed.
+Radius.py dependencies: pynput module
 
 To perform this on windows type pip install pynput into cmd or powershell. If you are on linux type into your terminal: sudo apt install python3-pynput
+
+sshbruter.py dependencies: You will need a .csv file 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Feel free to use and modify this code for educational purposes. I'm not responsible for the outcomes these programs may or may not have.
