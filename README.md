@@ -1,11 +1,11 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Disclaimer: These pieces of software are for Educational purposes only. I am in no way responsible for the outcomes these programs may or may not produce. Do not use for Malicious purposes.
 
-My capstone project is based around malware research and development.
+My capstone project is based around malware research, development, data recovery, and learning how to mitigate risks from threat actors
 
-In my project I have created many different types of malware such as: Keyloggers, winlockers, SSH brute forcer, and a Program for Phishing/email spamming.
+In my project I have created many different types of malware such as: Keyloggers, winlockers, SSH brute force tool, and a Program for Phishing/email spamming.
 
-Not all of the code used in these programs are originally written by me and I will give credit to the original malware developer(s) in those respective programs.
+Not all of the code used in these programs are originally written by me and I will give credit to the original developer(s) in those respective programs.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 This page will be updated closer to the end of my current capstone project                                                                                           
