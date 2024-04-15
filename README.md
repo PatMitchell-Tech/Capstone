@@ -24,3 +24,7 @@ in the second. Example:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Feel free to use and modify this code for educational purposes. I'm not responsible for the outcomes these programs may or may not have.
+
+I wouldn't recommend running these programs on bare metal. Instead I would recommend running these scripts on a virtual machine.
+
+These scripts for the most part will not do any serious damage to your systems but it is better to be safe than sorry with programs of this nature.
