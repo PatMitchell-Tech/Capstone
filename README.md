@@ -35,5 +35,7 @@ Feel free to use and modify this code for educational purposes. I'm not responsi
 I wouldn't recommend running these programs on bare metal. Instead I would recommend running these scripts on a virtual machine.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-If you have any questions about these programs feel free to email me @Patrick.mitchell5634@gmail.com
+If you have any questions about these programs feel free to email me 
+
+@Patrick.mitchell5634@gmail.com
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
