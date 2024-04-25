@@ -10,7 +10,7 @@ All of these programs were created in the python programming language.
 Not all of the code used in these programs are originally written by me and I will give credit to the original developer(s) in those respective programs.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-These PoC programs are designed to research the methods threat actors use to exploit systems. The goal of this project is to learn how to mitigate risks
+These PoC programs are designed to research the methods threat actors use to exploit systems. The goal of this project was to learn how to mitigate risks
 associated with threat actors and the methods they use to exploit systems. Throughout this project I learned how to research and develop malware, perform hands on digital 
 forensics, hunt for threats, find IoCs, analyze malware, and perform recovery on malware infected endpoints. This project taught me how to defend and attack systems as 
 well as how to actively quaratine systems infected with malware.
