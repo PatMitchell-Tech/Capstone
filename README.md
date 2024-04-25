@@ -3,7 +3,9 @@ Disclaimer: These pieces of software are for Educational purposes only. I am in 
 
 My capstone project is based around malware research, development, data recovery, and learning how to mitigate risks from threat actors
 
-In my project I have created many different types of malware such as: Keyloggers, winlockers, SSH brute force tool, and a Program for Phishing/email spamming.
+In my project I have created many different types of malware such as: Keyloggers, winlockers, SSH brute force tool, Automated phishing/email spamming program, and a Ransomware program.
+
+All of these programs were created in the python programming language.
 
 Not all of the code used in these programs are originally written by me and I will give credit to the original developer(s) in those respective programs.
 
@@ -32,4 +34,6 @@ Feel free to use and modify this code for educational purposes. I'm not responsi
 
 I wouldn't recommend running these programs on bare metal. Instead I would recommend running these scripts on a virtual machine.
 
-These scripts for the most part will not do any serious damage to your systems but it is better to be safe than sorry with programs of this nature.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+If you have any questions about these programs feel free to email me @Patrick.mitchell5634@gmail.com
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
