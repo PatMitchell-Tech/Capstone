@@ -28,7 +28,6 @@ in the second. Example:
 ![image](https://github.com/PatMitchell-Tech/Capstone/assets/120431122/bc63f4fc-4966-4b02-9cf9-040e242b4422)
 
 
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Feel free to use and modify this code for educational purposes. I'm not responsible for the outcomes these programs may or may not have.
 
