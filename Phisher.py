@@ -30,7 +30,7 @@ class phish(object):#This class is designed for phishing
         start = input("Press enter to start this program:\n")
     starter()
 
-    
+"""For some reason the bottom part of my code didn't want to launch while it was in a defined function so that is why it is left out"""    
 
     
     
