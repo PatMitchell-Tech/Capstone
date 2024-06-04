@@ -1,5 +1,6 @@
 """
-Wannaphish email sender program. This program is designed to help you send emails using smtplib and gmail to send emails. This program allows you to send emails containing malicious links
+Wannaphish email sender program. This program is designed to help you send emails using smtplib and gmail to send emails. This program allows you to send emails containing malicious links redirecting victims to a
+c2 server under your control.
 Author:Patrick Mitchell
 Professor:Anup Parajuli
 School: Lake Superior College
