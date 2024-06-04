@@ -45,7 +45,10 @@ text = f"Subject: {subject}\n\n{message}"
 server = smtplib.SMTP("smtp.gmail.com", 587)
 server.starttls()
 
-server.login(email, AppPassword)
+server.login(email, AppPassword)#You need to create a gmail app password and implement it where it says app password.
+
+""" Refer to the webpage below to create and use an appPassword for testing purposes. This is essentially an API key so if you know how to use an API key this should be 
+pretty intuitive for you. https://support.google.com/accounts/answer/185833?hl=en """
 
 server.sendmail(email, receiver_email, text)
 
